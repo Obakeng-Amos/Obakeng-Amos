@@ -20,8 +20,4 @@ I'm a Junior Data Analyst with a passion for extracting insights from data. Curr
 - Data projects
 - Learning resources and study groups focused on data science.
 
-😄 Pronouns:
-
-He/Him
-
 ---
